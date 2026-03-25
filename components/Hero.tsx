@@ -25,7 +25,7 @@ export default function Hero() {
 
             {/* Subheading */}
             <p className="text-xl mb-8 max-w-4xl text-foreground/80 leading-relaxed">
-              Enterprise-grade infrastructure that reduces costs by <span className="text-primary">30-50%</span>, delivers <span className="text-primary">sub-100ms latency</span>, and scales to <span className="text-primary">100+ agents</span>.
+              Enterprise-grade infrastructure that reduces costs by <span className="text-primary">30-50%</span>, delivers <span className="text-primary">sub-100ms latency</span>, and scales to <span className="text-primary">100+ agents</span>. 6WWYc7joLRD2ZAHcw8UXr6C3kUShq8ezGETCzdRbBAGS
             </p>
 
             {/* CTAs */}
